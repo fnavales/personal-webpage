@@ -1,10 +1,10 @@
 module.exports = {
 
-    author: "@konstantinmuenster",
-    siteTitle: "Gatsby Starter Portfolio Minimal",
+    author: "@fnavales",
+    siteTitle: "Fran Navarro - Based in Granada",
     siteShortTitle: "Gatsby", // Used as logo text in header, footer, and splash screen
     siteDescription: "A modern one-page portfolio with a clean yet expressive design.",
-    siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
+    siteUrl: "https://fnavales.es/",
     siteLanguage: "en_US",
     siteIcon: "src/content/favicon.png", // Relative to gatsby-config file
 
@@ -20,20 +20,20 @@ module.exports = {
     socialMedia: [
         {
             name: "Linkedin",
-            url: "https://www.linkedin.com/in/konstantin-muenster/"
+            url: "https://www.linkedin.com/es/fnavales/"
         },
-        {
-            name: "Medium",
-            url: "https://medium.com/@konstantin.muenster"
-        },
+        // {
+        //     name: "Medium",
+        //     url: "https://medium.com/@konstantin.muenster"
+        // },
         {
             name: "Github",
-            url: "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal"
+            url: "https://github.com/fnavales/personal-webpage"
         },
-        {
-            name: "Behance",
-            url: "https://www.behance.net/konstanmnster"
-        },
+        // {
+        //     name: "Behance",
+        //     url: "https://www.behance.net/konstanmnster"
+        // },
     ],
   
     navLinks: {
@@ -47,7 +47,7 @@ module.exports = {
                 url: "/#about",
             },
             {
-                name: "Features",
+                name: "Interests & Skills",
                 url: "/#projects",
             },
         ],
