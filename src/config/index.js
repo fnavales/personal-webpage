@@ -28,7 +28,7 @@ module.exports = {
         // },
         {
             name: "Github",
-            url: "https://github.com/fnavales/personal-webpage"
+            url: "https://github.com/fnavales/"
         },
     ],
   
@@ -40,7 +40,7 @@ module.exports = {
             },
             {
                 name: "Interests & Skills",
-                url: "/#projects",
+                url: "/#interests",
             },
         ],
         button: {
