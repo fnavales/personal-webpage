@@ -4,7 +4,7 @@ module.exports = {
     secondary: "#88eec9",
     tertiary: "#F2F2F2",
     text: "#000000",
-    background: "#ffffff",
+    background: "#181818",
   },
   breakpoints: {
     xs: "480px",
