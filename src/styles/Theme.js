@@ -1,10 +1,10 @@
 module.exports = {
   colors: {
-    primary: "#000000",
+    primary: "#fafafa",
     secondary: "#88eec9",
-    tertiary: "#F2F2F2",
-    text: "#000000",
-    background: "#181818",
+    tertiary: "#252525",
+    text: "rgba(255, 255, 255, 0.87)",
+    background: "#121212",
   },
   breakpoints: {
     xs: "480px",
